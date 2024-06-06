@@ -1,0 +1,24 @@
+.brand{
+    display: flex;
+    justify-content: space-between;
+    /* position: absolute; */
+    padding: 40px;
+    width: 50%;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    
+}
+.brand>img{
+    height: auto;
+    width: 100px;
+    padding-left: 80px;
+}
+.feature-img{
+    height: 550px;
+    widows: auto;
+    position: absolute;
+    left: 180px;
+    top: 2100px;
+}

@@ -1,0 +1,72 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    top: 100px;
+}
+.gradient__text{
+    position: absolute;
+    top: 263px;
+    left: 69px;
+    height: 244px;
+    width: 620px;
+    font-family: var(--font-family);
+    font-weight: 800;
+    font-size: 62px;
+    line-height: 75px;
+    letter-spacing: -0.04em;
+    
+}
+.header-text{
+    color: aliceblue;
+    height: 132px;
+    width: 596px;
+    position: absolute;
+    top: 531px;
+    left: 60px;
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: var(--color-text);
+}
+.input{
+    height: 50px;
+    width: auto;
+    margin: 2rem 0 2rem;
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    top: 661px;
+    left: 67px;
+}
+input{
+    background-color: #052D56;
+    width: 300px;
+    text-align: center;
+}
+.input>button{
+    background-color: #FF4820;
+    align-items: center;
+    font-size: 12px;
+    font-weight: bold;
+    width: 150px;
+    color: #f8f6f6;
+}
+.signup>img{
+    position: absolute;
+    top: 760px;
+    left: 74px;
+    height: 18px;
+    width: auto;
+}
+.signup>p{
+    position: absolute;
+    top: 738px;
+    left: 169px;
+    color: #f8f6f6;
+}
+.illu{
+    display: block;
+    margin-left: 50%;
+    margin-top: 100px;
+}

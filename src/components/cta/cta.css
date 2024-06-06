@@ -1,0 +1,33 @@
+.cta{
+    background-image: url(../../assets/Rectangle\ 26.png);
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 2900px;
+    left: 200px;
+    width: 80%;
+    height: 172.65px;
+}
+.para{
+    color: #0E0E0E;
+    font-weight: 600;
+    margin-left: 26px;
+    position: absolute;
+    top: 50px;
+}
+.cta-heading{
+    position: absolute;
+    font-weight: 800;
+    margin-left: 40px;
+    font-size: 25px;
+    top: 100px;
+}
+.btton{
+    position: absolute;
+    left: 900px;
+    top: 70px;
+    height: 50px;
+    width: 140px;
+    border-radius: 40px;
+    background-color: #000000;
+    color: white;
+}
