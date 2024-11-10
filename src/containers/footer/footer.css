@@ -4,9 +4,9 @@
     justify-content: center;
     align-items: center;
     position: absolute;
-    top: 4300px;
+    top: 4500px;
     background: var(--color-footer);
-    width: 87%;
+    width: 85%;
     height: 100%;
 }
 

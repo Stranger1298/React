@@ -4,7 +4,7 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     position: absolute;
-    top: 1800px;
+    top: 2000px;
     height: auto;
     width: 400px;
     left:175px;
@@ -15,33 +15,38 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     position: absolute;
-    top: 2000px;
+    top: 2200px;
     left:155px;
 }
 .head1{
     color: white;
     width: 140px;
+    margin-top: 260px;
 }
 .head2{
     color: white;
-    position: absolute;
-    top: 122px;
+    /* position: absolute; */
+    /* top: 122px; */
     width: 140px;
+    margin-top: 60px;
 }
 .head3{
     color: white;
-    position: absolute;
-    top: 222px;
+    /* position: absolute; */
+    /* top: 222px; */
     width: 140px;
+    margin-top: 60px;
 }
 .head4{
     color: white;
-    position: absolute;
-    top: 322px;
+    /* position: absolute; */
+    /* top: 322px; */
     width: 140px;
+    margin-top: 60px;
 }
 .img1,.img2,.img3,.img4{
     margin-left: -2px;
+    margin-top: 250px;
 }
 .img1{
     position: absolute;
@@ -70,22 +75,22 @@
 .p1{
     position: absolute;
     left: 219px;
-    top: -20px;
+    top: 240px;
 }
 .p2{
     position: absolute;
     left: 219px;
-    top: 100px;
+    top: 340px;
 }
 .p3{
     position: absolute;
     left: 219px;
-    top: 200px;
+    top: 440px;
 }
 .p4{
     position: absolute;
     left: 219px;
-    top: 300px;
+    top: 540px;
 }
 .p1,.p2,.p3,.p4{
     color: #81AFDD;
@@ -96,7 +101,7 @@
     position: absolute;
     color: #71E5FF;
     position: absolute;
-    top: 2290px;
+    top: 2550px;
     margin-left: 59%;
     width: 386px;
 
@@ -107,7 +112,7 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     position: absolute;
-    top: 2350px;
+    top: 2600px;
     margin-left: 60%;
     width: 386px;
 }
@@ -115,7 +120,7 @@
     position: absolute;
     color: #71E5FF;
     position: absolute;
-    top: 2570px;
+    top: 2820px;
     margin-left: 59%;
     width: 386px;
     color: #FF8A71;
@@ -126,5 +131,8 @@
     width: 380px;
     position: absolute;
     margin-left: 59%;
-    top: 2450px;
+    top: 2700px;
+}
+.feature-img{
+    margin-top: 300px;
 }
