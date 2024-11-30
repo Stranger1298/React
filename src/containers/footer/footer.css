@@ -20,8 +20,8 @@
 .gpt3__footer-heading h1 {
     font-family: var(--font-family);
     font-weight: 800;
-    font-size: 64px;
-    line-height: 75px;
+    font-size: min(64px, 6vw);
+    line-height: 1.2;
     max-width: 900px;
     margin: 0 auto;
 }
@@ -43,9 +43,9 @@
 }
 
 .gpt3__footer-btn p {
-    font-size: 18px;
+    font-size: min(18px, 1.2vw);
     font-family: var(--font-family);
-    line-height: 21px;
+    line-height: 1.5;
     color: #fff;
     word-spacing: 2px;
     margin: 0;
@@ -79,8 +79,8 @@
 
 .gpt3__footer-links_logo p {
     font-family: var(--font-family);
-    font-size: 12px;
-    line-height: 15px;
+    font-size: min(12px, 1vw);
+    line-height: 1.5;
     color: #fff;
 }
 
@@ -91,16 +91,17 @@
 }
 
 .gpt3__footer-links_div h4 {
-    font-size: 14px;
-    line-height: 17px;
+    font-size: min(14px, 1.1vw);
+    line-height: 1.4;
     font-family: var(--font-family);
     color: #fff;
     margin-bottom: 1rem;
+    font-weight: 500;
 }
 
 .gpt3__footer-links_div p {
-    font-size: 12px;
-    line-height: 15px;
+    font-size: min(12px, 1vw);
+    line-height: 1.5;
     font-family: var(--font-family);
     color: #fff;
     margin: 0.5rem 0;
@@ -121,9 +122,9 @@
 }
 
 .gpt3__footer-copyright p {
-    font-size: 12px;
+    font-size: min(12px, 1vw);
     font-family: var(--font-family);
-    line-height: 15px;
+    line-height: 1.5;
     color: #fff;
 }
 
@@ -133,8 +134,8 @@
     }
     
     .gpt3__footer-heading h1 {
-        font-size: 44px;
-        line-height: 50px;
+        font-size: min(44px, 5vw);
+        line-height: 1.2;
     }
 
     .gpt3__footer-links {
@@ -154,8 +155,8 @@
     }
 
     .gpt3__footer-heading h1 {
-        font-size: 34px;
-        line-height: 42px;
+        font-size: min(34px, 7vw);
+        line-height: 1.2;
     }
 
     .gpt3__footer-links div {
@@ -164,7 +165,7 @@
 
     .gpt3__footer-btn p {
         font-size: 14px;
-        line-height: 20px;
+        line-height: 1.5;
     }
 }
 
@@ -174,7 +175,7 @@
     }
 
     .gpt3__footer-heading h1 {
-        font-size: 27px;
-        line-height: 38px;
+        font-size: min(27px, 6vw);
+        line-height: 1.4;
     }
 }
